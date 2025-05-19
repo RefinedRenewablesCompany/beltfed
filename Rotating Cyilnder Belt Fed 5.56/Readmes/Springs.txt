@@ -1,0 +1,6 @@
+The lengthes of spring in this readme should be tested
+to see if they need to be shorter to put less force on the parts 
+or longer to put more pressure so buy longer springs then said in this redeme and cut them to the needs of this project
+
+
+X2 M4x45
